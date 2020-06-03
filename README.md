@@ -31,5 +31,6 @@ A simple Google meet bot so the bot can attend classes for you.(fuck the educati
   Replace the url meet with the meeting id
   
   *In the last line before pause if you are a student in an organization replace the 'ask to join' with 'Join now'
+  ##### note please: i tested on a chromium browser
 
    
