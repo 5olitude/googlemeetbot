@@ -8,4 +8,6 @@ A simple Google meet bot so the bot can attend classes for you.(fuck the educati
   I encourage you to work on a virtual enviornment like anaconda
   
 ### My Test Cases
+
+Firstly I work with with the selenium chrome-driver and uses chromium as the interface = # WORKS 
    
