@@ -24,23 +24,38 @@ A simple Google meet bot so the bot can attend classes for you.(fuck the educati
 #### Working of chromium.py
   
   
-  You can uncomment the pause.until in the chromium.py ie you can set the time and execute when to start the program
+  * You can uncomment the pause.until in the chromium.py ie you can set the time and execute when to start the program
   
-  Replace the usernameStr and passwordStr with your gmailid and password
+  * Replace the usernameStr and passwordStr with your gmailid and password
   
-  Replace the url meet with the meeting id
+  * Replace the url meet with the meeting id
   
-  There are certain permissions to use our media by google meet i just blocked it all (micrphone and webcam) and set to a default value of 2(block) and 1(unblock)
+  * There are certain permissions to use our media by google meet i just blocked it all (micrphone and webcam) and set to a default value of 2(block) and 1(unblock)
   
   *In the last line before pause if you are a student in an organization replace the 'ask to join' with 'Join now'
   ##### note please: i tested on a chromium browser
  
 ### Working  of mozilla.py 
 
-  The cool headless functionality i implemeted her and it works pretty well there are more options like --disable gpu 
+ * The cool headless functionality i implemeted her and it works pretty well there are more options like --disable gpu 
   
-  The headless option makes the program to run in background .even if the program terminated  we will be the particpants in the  meeting
+ * The headless option makes the program to run in background .even if the program terminated  we will be the particpants in the  meeting
   
-  The permission parameters are littlr different than in chrome 
+ * The permission parameters are little different than in chrome-driver
+  
+# How to run the program effectively?
+  
+  If you deploy it in a cloud then the fun begins you dont have to bother about the internet ,time and other stuffs .
+  
+  If more than one meeting id or classes just use the sys arguments or argparse and pass the id as parameters 😀 cool 
+  
+  Some helpfull link how to deploy a headless chrome in goole cloud platform i found in internet? 
+  
+  https://dev.to/googlecloud/using-headless-chrome-with-cloud-run-3fdp
+  
+  if you search for mozilla deploy you can find it too
+  
+  > you can also deploy in heroku too 
+  
   
    
