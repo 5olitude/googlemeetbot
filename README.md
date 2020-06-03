@@ -1,4 +1,5 @@
-# googlemeetbot
+# google meet bot 🤖
+
 A simple Google meet bot so the bot can attend classes for you.(fuck the education system)
  
 ## REQUIREMENTS
