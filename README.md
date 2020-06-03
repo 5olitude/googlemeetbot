@@ -15,6 +15,10 @@ A simple Google meet bot so the bot can attend classes for you.(fuck the educati
 
 ## Advantages of headless drivers?
    
-   The program runs in background until you have a good internet connection and power . It never requires mozilla tab to be   opened
+   The program runs in background until you have a good internet connection and power . It never requires mozilla tab to be     opened . I really worked on chrome-headless but some bugs reported while running so i switched into the mozilla-headless it works cool .
+   
+### CODES
+    * chromium.py
+    * mozilla.py
 
    
