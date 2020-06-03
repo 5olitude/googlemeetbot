@@ -38,6 +38,10 @@ A simple Google meet bot so the bot can attend classes for you.(fuck the educati
 ### Working  of mozilla.py 
 
  * The cool headless functionality i implemeted her and it works pretty well there are more options like --disable gpu 
+ 
+ *  You want to install geckodriver before executing
+     
+         # conda install -c conda-forge geckodriver
   
  * The headless option makes the program to run in background .even if the program terminated  we will be the particpants in the  meeting
   
@@ -45,17 +49,17 @@ A simple Google meet bot so the bot can attend classes for you.(fuck the educati
   
 # How to run the program effectively?
   
-  If you deploy it in a cloud then the fun begins you dont have to bother about the internet ,time and other stuffs .
+  * If you deploy it in a cloud then the fun begins you dont have to bother about the internet ,time and other stuffs .
   
-  If more than one meeting id or classes just use the sys arguments or argparse and pass the id as parameters 😀 cool 
+  * If more than one meeting id or classes just use the sys arguments or argparse and pass the id as parameters 😀 cool 
   
-  Some helpfull link how to deploy a headless chrome in goole cloud platform i found in internet? 
+  * Some helpfull link how to deploy a headless chrome in goole cloud platform i found in internet? 
   
   https://dev.to/googlecloud/using-headless-chrome-with-cloud-run-3fdp
   
-  if you search for mozilla deploy you can find it too
+  * if you search for mozilla deploy you can find it too
   
-  > you can also deploy in heroku too 
+   * you can also deploy in heroku too 
   
   
    
