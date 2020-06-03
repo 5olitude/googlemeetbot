@@ -61,5 +61,6 @@ A simple Google meet bot so the bot can attend classes for you.(fuck the educati
   
    * you can also deploy in heroku too 
   
-  
+  ##### Dedicating to the fucking indian education system which still uses the old syllabus and tears from my heart to the girl in kerala  who ended up her life ( due to unavailability of proper technologies for continuing her studies) . When a whole nation  and a state ruled by  a corrupted political system they cant never able to eradicate poverty but they still trying to make development where poverty is burried underneath .A great 🖕 to corrupted system all around the world
    
+### HAVE A NICE DAY 
